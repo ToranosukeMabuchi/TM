@@ -1,2 +1,57 @@
-h.title1{font-size: 10px;}
-h.title2{font-size: 10000000px;}
+h.title1{font-size: 10px;
+position: relative;
+left:650px;
+top:-40px
+}
+h.title2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 130px;
+position: relative;
+top: 70px;
+margin: 0px;
+padding: 0px;
+width: 20px;}
+h3.self{
+    font-size: 26px;
+    transform: rotate(90deg);
+    position: relative;
+    left: 350px;
+    top:340px;
+    border-bottom:solid;
+    margin: 0px;
+    padding: 0px;
+    width: 250px;
+}
+div.hobby{
+    line-height: 20px;
+    font-size: 15px;
+    margin: 0px;
+    position: relative;
+    left: 650px;
+    top: 200px;
+    padding: 0px;
+    width: 200px;
+}
+div.born{
+    font-size: 20px;
+    line-height: 2px;
+    position: relative;
+    left: 970px;
+    top: 60px;
+    margin: 0px;
+    padding: 0px;
+    width: 550px;
+}
+div.first{
+    font-size: 20px;
+    line-height: 3px;;
+    position: relative;
+left: 970px;
+top: 77px;
+margin: 0px;
+padding: 0px;
+width: 600px;
+}
+.ss{
+    margin-bottom: 2em;
+}
