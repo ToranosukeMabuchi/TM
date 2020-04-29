@@ -55,3 +55,60 @@ width: 600px;
 .ss{
     margin-bottom: 2em;
 }
+div.advan{
+position: relative;
+left: 500px;
+top: 500px;
+line-height: 5px;
+margin: 0px;
+padding: 0px;
+width: 600px;}
+p.ad{font-size: 50px;}
+div.chall{
+    text-shadow: 1px 2px 3px #080808;
+    color: cornsilk;
+    position: relative; 
+    left: 200px;
+    top: 600px;
+    margin: 0px;
+    padding: 0px;
+    width: 180px;
+}
+div.cen{
+    text-shadow: 1px 2px 3px #080808;
+    color: cornsilk;
+    position: relative;
+    left: 710px;
+    top: 400px;
+    margin: 0px;
+    padding: 0px;
+    width: 180px;
+}
+div.ser{
+    text-shadow: 1px 2px 3px #080808;
+    color: cornsilk;
+    position: relative;
+    left: 1220px;
+    top: 200px;
+    margin: 0px;
+    padding: 0px;
+    width: 180px;
+}
+div.my{
+    position: relative;
+    left: 680px;
+    top: 100px;
+    margin: 0px;
+    padding: 0px;
+    width: 300px;
+}
+div.wa{
+    font-size: 80px;
+    position: relative;
+    left: 300px;
+    top: 500px;
+    margin: 0px;
+    padding: 0px;
+    width: 300px;
+}
+}
