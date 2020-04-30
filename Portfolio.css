@@ -65,26 +65,29 @@ padding: 0px;
 width: 600px;}
 p.ad{font-size: 50px;}
 div.chall{
+    font-size: 20px;
     text-shadow: 1px 2px 3px #080808;
     color: cornsilk;
     position: relative; 
     left: 200px;
-    top: 600px;
+    top: 700px;
     margin: 0px;
     padding: 0px;
-    width: 180px;
+    width: 220px;
 }
 div.cen{
+    font-size: 20px;
     text-shadow: 1px 2px 3px #080808;
     color: cornsilk;
     position: relative;
     left: 710px;
-    top: 400px;
+    top: 450px;
     margin: 0px;
     padding: 0px;
-    width: 180px;
+    width: 220px;
 }
 div.ser{
+    font-size: 20px;
     text-shadow: 1px 2px 3px #080808;
     color: cornsilk;
     position: relative;
@@ -92,23 +95,77 @@ div.ser{
     top: 200px;
     margin: 0px;
     padding: 0px;
-    width: 180px;
+    width: 220px;
 }
 div.my{
+    text-shadow: 2px 2px 3px #fff9f9;
     position: relative;
     left: 680px;
-    top: 100px;
+    top: -250px;
     margin: 0px;
     padding: 0px;
     width: 300px;
+    line-height: 5px;
 }
-div.wa{
-    font-size: 80px;
+.image2{
     position: relative;
-    left: 300px;
-    top: 500px;
+    top: 1200px;
+}
+.image{
+    position: relative;
+    top: 650px;
+}
+p.dre{
+    font-size: 50px;
+}
+div.Im{
+    text-shadow: 1px 1px 3px #080808;
+    color: #fff9f9;
+    font-size: 25px;
+    position: relative;
+    left: 350px;
+    top: -50px;
     margin: 0px;
     padding: 0px;
-    width: 300px;
+    width: 1000px;
+    line-height: 30px;
 }
+div.thank{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 70px;
+    position: relative;
+    top: 600px;
+    margin: 400px;
 }
+#page_top{
+    width: 50px;
+    height: 50px;
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    background: #3f98ef;
+    opacity: 0.6;
+  }
+  #page_top a{
+    position: relative;
+    display: block;
+    width: 50px;
+    height: 50px;
+    text-decoration: none;
+  }
+  #page_top a::before{
+    font-family: 'Font Awesome 5 Free';
+    font-weight: 900;
+    content: '\f102';
+    font-size: 25px;
+    color: #fff;
+    position: absolute;
+    width: 25px;
+    height: 25px;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    margin: auto;
+    text-align: center;
+  }
